@@ -95,6 +95,7 @@ Used some external libraries, such as the map tool, which needed tweaking to mak
 
 Installation Details
 ----------
+Installation details to follow shortly.
 
 Team
 ----
